@@ -1,0 +1,42 @@
+.user-card{
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 10px 0px #ccc;
+    border: none;
+}
+.user-header{
+    font-size: 35px;
+    color: #ccc;
+}
+.user-dialog h2{
+    display: flex;
+}
+.user-present{
+    font-size: 19px;
+    font-weight: bold;
+    color: #989494;
+}
+.user-present-date{
+    font-size: 15px;
+    font-weight: 500;
+    color: #989494;
+    border: 1px solid #989494;
+    padding: 7px;
+    border-radius: 10px;
+}
+.user-present-summary{
+    color: #504b4b;
+}
+.spinner{
+    margin-left: 40%;
+    font-size: 20px;
+    color: #6d6666;
+    font-weight: bold;
+
+}
+.spinner-text{
+    position: relative;
+    left: 7px;
+    top: -3px;
+
+}
