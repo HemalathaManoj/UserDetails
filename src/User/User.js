@@ -180,8 +180,8 @@ class User extends Component {
       <div>
         <Row>
           <Col md="3" />
-          <Col md="6">
-            <span className="user-header">FULL THROTTLE LABS - User Login</span>
+          <Col md="6" style={{textAlign: 'center'}}>
+            <span className="user-header">User Details</span>
             <Card className='user-card'>
               <CardBody>
                 <List>
